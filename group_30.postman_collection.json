@@ -92,19 +92,22 @@
 					"mode": "formdata",
 					"formdata": [
 						{
-							"key": "name",
-							"value": "Ann",
-							"type": "text"
+							"key": "",
+							"value": "",
+							"type": "text",
+							"disabled": true
 						},
 						{
-							"key": "age",
-							"value": "31",
-							"type": "text"
+							"key": "",
+							"value": "",
+							"type": "text",
+							"disabled": true
 						},
 						{
-							"key": "salary",
-							"value": "150000",
-							"type": "text"
+							"key": "sa",
+							"value": "",
+							"type": "text",
+							"disabled": true
 						}
 					]
 				},
@@ -149,23 +152,7 @@
 				"header": [],
 				"body": {
 					"mode": "formdata",
-					"formdata": [
-						{
-							"key": "name",
-							"value": "Ann",
-							"type": "text"
-						},
-						{
-							"key": "age",
-							"value": "31",
-							"type": "text"
-						},
-						{
-							"key": "salary",
-							"value": "150000",
-							"type": "text"
-						}
-					]
+					"formdata": []
 				},
 				"url": {
 					"raw": "http://162.55.220.72:5005/object_info_2?name=Ann&age=31&salary=150_000",
@@ -208,23 +195,7 @@
 				"header": [],
 				"body": {
 					"mode": "formdata",
-					"formdata": [
-						{
-							"key": "name",
-							"value": "Ann",
-							"type": "text"
-						},
-						{
-							"key": "age",
-							"value": "31",
-							"type": "text"
-						},
-						{
-							"key": "salary",
-							"value": "150000",
-							"type": "text"
-						}
-					]
+					"formdata": []
 				},
 				"url": {
 					"raw": "http://162.55.220.72:5005/object_info_3?name=Ann&age=31&salary=150_000",
@@ -267,23 +238,7 @@
 				"header": [],
 				"body": {
 					"mode": "formdata",
-					"formdata": [
-						{
-							"key": "name",
-							"value": "Ann",
-							"type": "text"
-						},
-						{
-							"key": "age",
-							"value": "31",
-							"type": "text"
-						},
-						{
-							"key": "salary",
-							"value": "150000",
-							"type": "text"
-						}
-					]
+					"formdata": []
 				},
 				"url": {
 					"raw": "http://162.55.220.72:5005/object_info_4?name=Ann&age=31&salary=150_000",
